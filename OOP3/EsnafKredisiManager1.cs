@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
-    class EsnafKredisiManager : IKrediManager
+    internal class EsnafKredisiManager : IKrediManager
     {
         public void BiseyYap()
         {
